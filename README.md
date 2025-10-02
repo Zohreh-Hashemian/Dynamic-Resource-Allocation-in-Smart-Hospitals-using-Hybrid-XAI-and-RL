@@ -1,2 +1,2 @@
 # Dynamic Resource Allocation in Smart Hospitals using Hybrid XAI + RL
-This project focuses on developing AI models to optimize hospital resource allocation using machine learning and deep learning techniques. The goal is to predict patient discharge and enhance decision-making for resource management in hospitals.
+A dynamic resource allocation system for smart hospitals using Hybrid XAI and Reinforcement Learning (RL). This system optimizes resource distribution (e.g., ICU beds, ventilators, staff) while ensuring transparency and fairness through explainable AI techniques such as SHAP and LIME.
